@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">AppUTH3P26</string>
     <string name="btn_aceptar">Aceptar</string>
+    <string name="Nombres">Nombres</string>
+    <string name="Apellidos">Apellidos</string>
+    <string name="FechaNacimiento">Fecha de Nacimiento</string>
+    <string name="Direccion">Direccion</string>
+    <string name="AgregarPersona">Agregar Persona</string>
 </resources>
